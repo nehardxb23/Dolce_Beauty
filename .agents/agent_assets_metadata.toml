@@ -1,0 +1,50 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "8PcWOxIMf6nB0fuSH7NxB"
+uri = "file://artifacts/dominos-beauty/src/assets/images/hero.png"
+type = "image"
+title = "Woman applying red lipstick"
+
+[[generated]]
+id = "C1xVTnm7xV9o315hA59-X"
+uri = "file://artifacts/dominos-beauty/src/assets/images/product-palette.png"
+type = "image"
+title = "Pizza makeup palette"
+
+[[generated]]
+id = "gs1rKEWvdgsxbUcnqMhgR"
+uri = "file://artifacts/dominos-beauty/src/assets/images/product-blush.png"
+type = "image"
+title = "Pepperoni blush"
+
+[[generated]]
+id = "ElEOgbhqKJ9TIsehLKM_6"
+uri = "file://artifacts/dominos-beauty/src/assets/images/product-gloss.png"
+type = "image"
+title = "Cheese drip gloss"
+
+[[generated]]
+id = "hK7pJhVXs0Iv9vp4Xj5o7"
+uri = "file://artifacts/dominos-beauty/src/assets/images/product-highlighter.png"
+type = "image"
+title = "Lava glow highlighter"
+
+[[generated]]
+id = "PlqEEuiR9676f0-eW8CpV"
+uri = "file://artifacts/dominos-beauty/src/assets/images/combo-date-night.png"
+type = "image"
+title = "Date night kit combo"
+
+[[generated]]
+id = "moYUv9OjG9hVliZxrVh3Z"
+uri = "file://artifacts/dominos-beauty/src/assets/images/combo-college.png"
+type = "image"
+title = "College glam combo"
+
+[[generated]]
+id = "Ud-BaDvmeoywC_lhxYYev"
+uri = "file://artifacts/dominos-beauty/src/assets/images/combo-party.png"
+type = "image"
+title = "Party glow combo"
