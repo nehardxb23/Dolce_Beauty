@@ -51,9 +51,13 @@ Traditional beauty delivery takes days. Dolce Beauty changes that by combining t
 
 ## 🌐 Live Demo
 
-Example:
+Published website link:
 
 https://dolce-beauty--nehardxb23.replit.app/
+
+Link before being published:
+
+https://75c03325-572f-4ab2-a563-0fe610b869ae-00-17xnryhr2a92o.janeway.replit.dev/
 
 ---
 
